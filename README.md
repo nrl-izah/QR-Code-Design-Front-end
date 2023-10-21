@@ -22,12 +22,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 My solution is as below:
-![]([./MySolution/Screenshot%202023-10-21%20165438.png](https://github.com/nrl-izah/QR-Code-Design-Front-end/blob/main/Screenshot%202023-10-21%20165438.png)
+![This is how it looks like]([./MySolution/Screenshot%202023-10-21%20165438.png](https://github.com/nrl-izah/QR-Code-Design-Front-end/blob/main/Screenshot%202023-10-21%20165438.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/building-a-qr-code-design-J8ieIibd4s)
+- Live Site URL: [QR Code Design]([https://your-live-site-url.com](https://nrl-izah.github.io/QR-Code-Design-Front-end/))
 
 ## My process
 
