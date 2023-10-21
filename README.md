@@ -27,7 +27,7 @@ My solution is as below:
 ### Links
 
 - Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/building-a-qr-code-design-J8ieIibd4s)
-- Live Site URL: [QR Code Design]([https://your-live-site-url.com](https://nrl-izah.github.io/QR-Code-Design-Front-end/))
+- Live Site URL: [QR Code Design](https://nrl-izah.github.io/QR-Code-Design-Front-end/)
 
 ## My process
 
