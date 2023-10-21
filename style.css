@@ -1,22 +1,8 @@
-@font-face {
-    font-family: "Outfit";
-    src: url(https://github.com/nrl-izah/QR-Code-Design-Front-end/blob/main/Outfit-Regular.ttf);
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "Outfit";
-    src: url(https://github.com/nrl-izah/QR-Code-Design-Front-end/blob/main/Outfit-Bold.ttf);
-    font-weight: bold;
-    font-style: normal;
-}
-
 body {
     max-width: 100%;
     display: block;
     background-color: hsl(212, 45%, 89%);
-    font-family: "Outfit";
+    font-family: 'Outfit', sans-serif;
     margin: 0;
 }
 
@@ -43,7 +29,7 @@ img {
 
 .st-sentence {
     font-size: 18px;
-    font-weight: bold;
+    font-weight: 700;
     text-align: center;
     padding: auto;
     color: hsl(218, 44%, 22%);
@@ -51,6 +37,7 @@ img {
 
 .nd-sentence {
     font-size: 13px;
+    font-weight: 300;
     text-align: center;
     padding: auto;
     color: hsl(220, 15%, 55%);
